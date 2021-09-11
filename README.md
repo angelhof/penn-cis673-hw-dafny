@@ -1,0 +1,1 @@
+The announcement for the homework is in [announcement.md](announcement.md).
