@@ -1,6 +1,8 @@
 
 ## Homework announcement
 
+**Deadline:** Thursday, September 30th
+
 In this homework assignment we will focus on mergesort and try to implement part of it in Dafny and verify its correctness. We will focus on the `merge` part of mergesort.
 
 The assignment includes (i) formalizing the logical specifications in Dafny, i.e., what does it mean for the code to be correct, and (ii) using Dafny to verify that an implementation satisfies the specification.
